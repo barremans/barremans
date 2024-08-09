@@ -240,6 +240,65 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hg8Qdza5K2m_UtK_G0JT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fD_919za8rNbhw5f81wA-1" target="hg8Qdza5K2m_UtK_G0JT-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hg8Qdza5K2m_UtK_G0JT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fD_919za8rNbhw5f81wA-1" target="hg8Qdza5K2m_UtK_G0JT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fD_919za8rNbhw5f81wA-1" value="TEMP &amp;gt; 5C°" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hg8Qdza5K2m_UtK_G0JT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hg8Qdza5K2m_UtK_G0JT-1" target="fD_919za8rNbhw5f81wA-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hg8Qdza5K2m_UtK_G0JT-1" value="BUTTON" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="40" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hg8Qdza5K2m_UtK_G0JT-2" value="TXT: To Cold" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="170" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hg8Qdza5K2m_UtK_G0JT-4" value="NO" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=11;shadow=0" vertex="1" parent="1">
+          <mxGeometry x="100" y="120" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hg8Qdza5K2m_UtK_G0JT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hg8Qdza5K2m_UtK_G0JT-7" target="hg8Qdza5K2m_UtK_G0JT-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hg8Qdza5K2m_UtK_G0JT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hg8Qdza5K2m_UtK_G0JT-7" target="hg8Qdza5K2m_UtK_G0JT-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hg8Qdza5K2m_UtK_G0JT-7" value="Positie&lt;div&gt;Rolluik&lt;/div&gt;&lt;div&gt;= 0&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hg8Qdza5K2m_UtK_G0JT-9" value="&lt;div&gt;YES&lt;/div&gt;" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=11;shadow=0" vertex="1" parent="1">
+          <mxGeometry x="260" y="120" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hg8Qdza5K2m_UtK_G0JT-10" value="OPEN raam" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="350" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hg8Qdza5K2m_UtK_G0JT-12" value="&lt;div&gt;YES&lt;/div&gt;" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=11;shadow=0" vertex="1" parent="1">
+          <mxGeometry x="400" y="120" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hg8Qdza5K2m_UtK_G0JT-13" value="Positie&lt;div&gt;Rolluik&lt;/div&gt;&lt;div&gt;= 0&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="290" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hg8Qdza5K2m_UtK_G0JT-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hg8Qdza5K2m_UtK_G0JT-15" target="hg8Qdza5K2m_UtK_G0JT-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hg8Qdza5K2m_UtK_G0JT-15" value="CLOSE rolluik" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="230" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hg8Qdza5K2m_UtK_G0JT-16" value="OPEN Raam" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="135" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hg8Qdza5K2m_UtK_G0JT-19" value="NO" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=11;shadow=0" vertex="1" parent="1">
+          <mxGeometry x="290" y="190" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hg8Qdza5K2m_UtK_G0JT-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="hg8Qdza5K2m_UtK_G0JT-13" target="hg8Qdza5K2m_UtK_G0JT-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
