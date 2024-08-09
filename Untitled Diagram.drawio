@@ -29,7 +29,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JOSRvauK2hLnr8xtLC3x" name="Ventilatie">
-    <mxGraphModel dx="497" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -117,7 +117,7 @@
           <mxGeometry x="620" y="360" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tC1pbAc9rABiV7dZOyN4-1" value="STOP" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="640" y="440" width="50" height="50" as="geometry" />
+          <mxGeometry x="645" y="440" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
