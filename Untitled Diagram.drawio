@@ -104,8 +104,20 @@
         <mxCell id="ahvhZVWdTfh5E3TaMJ-t-1" value="Set Delay" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="230" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="tC1pbAc9rABiV7dZOyN4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ji_yZPCaXS0ptQvqPS7E-1" target="oMpNLjgI1ymg3a9pspnb-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ji_yZPCaXS0ptQvqPS7E-1" value="CLOSE Raam" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="300" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tC1pbAc9rABiV7dZOyN4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oMpNLjgI1ymg3a9pspnb-1" target="tC1pbAc9rABiV7dZOyN4-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oMpNLjgI1ymg3a9pspnb-1" value="Positie&lt;div&gt;Raam&lt;/div&gt;&lt;div&gt;= 0&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="360" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tC1pbAc9rABiV7dZOyN4-1" value="STOP" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="640" y="440" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
