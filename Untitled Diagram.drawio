@@ -122,7 +122,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="G61VUHajpA_uihMzsrTi" name="Open rolluiken">
+  <diagram id="G61VUHajpA_uihMzsrTi" name="COMMAND rolluiken/raam">
     <mxGraphModel dx="1050" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -157,10 +157,10 @@
         <mxCell id="By_8SI_-_T2w9xDjyNLX-11" value="&lt;div&gt;YES&lt;/div&gt;" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=11;shadow=0" parent="1" vertex="1">
           <mxGeometry x="303" y="181" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="By_8SI_-_T2w9xDjyNLX-13" value="Positie&lt;div&gt;Skider&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="By_8SI_-_T2w9xDjyNLX-13" value="Positie&lt;div&gt;Slider&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="368" y="206" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="By_8SI_-_T2w9xDjyNLX-15" value="COMMAND rolluik" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+        <mxCell id="By_8SI_-_T2w9xDjyNLX-15" value="COMMAND rolluik/raam" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="363" y="311" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pTfJMGvySpssK_0Iegm0-1" value="SLIDER" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
